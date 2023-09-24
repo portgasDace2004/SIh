@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "50126701860",
+    "firebase_url": "https://street-park-5fda5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "street-park-5fda5",
+    "storage_bucket": "street-park-5fda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50126701860:android:4efd4dfa474cf987da9fb1",
+        "android_client_info": {
+          "package_name": "com.example.smart_car_parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_i_xjokw7p71wtWQFQjVHInRxmI6hrkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
