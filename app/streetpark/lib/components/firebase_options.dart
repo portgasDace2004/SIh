@@ -20,11 +20,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB_i_xjokw7p71wtWQFQjVHInRxmI6hrkk',
-    appId: '1:50126701860:android:4efd4dfa474cf987da9fb1',
-    projectId: 'street-park-5fda5',
-    messagingSenderId: '50126701860',
-    storageBucket: 'street-park-5fda5.appspot.com',
+********add your api key details here************
   );
 
 }
