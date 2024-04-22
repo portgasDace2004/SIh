@@ -58,3 +58,6 @@ Thank you for your interest in the Smart Parking App project. We look forward to
 Contributors:-
 Akshit Saini 
 Harsh Gupta
+Yash Arya
+Diksha Kanojia
+Satvik Ranjan
