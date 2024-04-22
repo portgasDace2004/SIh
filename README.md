@@ -56,8 +56,9 @@ Thank you for your interest in the Smart Parking App project. We look forward to
 
 
 Contributors:-
-Akshit Saini, 
-Harsh,
+[Veer Vikram Singh](https://github.com/portgasDace2004),
+[Akshit Saini](https://github.com/akshit2941), 
+[Harsh Gupta](https://github.com/itsharshpro),
 [Yash Arya](https://github.com/yasharyas),
-Diksha Kanojia,
-Satvik Ranjan
+[Diksha Kanojia](https://github.com/Diksha-Kanojia),
+[Satvik Ranjan](https://github.com/ranjansatvik)
